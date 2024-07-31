@@ -4,4 +4,4 @@
 
 <br>
 
-Reference Link [here](https://github.com/PratikThoratNortheastern/DCLP-design-clone.git) by [Bogdan Falin](https://dribbble.com/qclay_design)
+Design reference [here](https://github.com/PratikThoratNortheastern/DCLP-design-clone.git) by [Bogdan Falin](https://dribbble.com/qclay_design)
